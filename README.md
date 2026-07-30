@@ -11,14 +11,12 @@
 
 ---
 
-### What I work on
+### About
 
-- **Commerce & warehouse systems** — product ingestion pipelines, an offline-capable warehouse scanner PWA, order and admin dashboards.
-- **Data extraction at scale** — resilient scrapers in Python and TypeScript, browser automation, custom [n8n](https://n8n.io) nodes for workflow orchestration.
-- **Platform & infrastructure** — self-hosted services, reverse proxies and DNS, auth dashboards, CI, deployment scripting.
-- **Developer tooling** — MCP servers, browser extensions, desktop widgets, and the small utilities that remove daily friction.
+Mostly TypeScript and Python, with Go where it earns its place. Web applications,
+backend services, automation, and the Linux infrastructure they run on.
 
-Most of my work lives in private repositories. The list below is what is public.
+Most of my work is in private repositories — what's public is below.
 
 ### Tech I reach for
 
