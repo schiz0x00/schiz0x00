@@ -41,9 +41,3 @@ Most of my work is in private repositories — what's public is below.
 ### Selected work
 
 **[kclaude](https://github.com/schiz0x00/kclaude)** — KDE Plasma 6 panel widget that surfaces Claude Code usage limits (5-hour, weekly, monthly) with colour-coded thresholds and reset countdowns. QML + Python, zero runtime dependencies beyond Plasma 6. Unofficial.
-
----
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=schiz0x00&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&hide_title=true">
-</p>
