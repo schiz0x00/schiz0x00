@@ -14,7 +14,7 @@
 
 ### About
 
-Mostly TypeScript and Python, with Go where it earns its place. Web applications,
+Mostly TypeScript and Python, with Go for when performance really matters. Web applications,
 backend services, automation, and the Linux infrastructure they run on.
 
 Day to day that means Next.js or Astro on the front, Node behind it, PostgreSQL
