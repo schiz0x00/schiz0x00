@@ -32,3 +32,5 @@ Most of my work is in private repositories — what's public is below.
 **[mcp-browser](https://github.com/schiz0x00/mcp-browser)** — MCP server that gives Claude Code a headless browser: navigation, DOM interaction, screenshots, and full request/response traffic capture with aggregated summaries. TypeScript, Playwright over CDP, Streamable HTTP transport with session management, deployed behind Caddy via Docker Compose.
 
 **[kclaude](https://github.com/schiz0x00/kclaude)** — KDE Plasma 6 panel widget that surfaces Claude Code usage limits (5-hour, weekly, monthly) with colour-coded thresholds and reset countdowns. QML + Python, zero runtime dependencies beyond Plasma 6. Unofficial.
+
+in the works: **[claude-opencode-proxy](https://github.com/schiz0x00/claude-opencode-proxy)**
